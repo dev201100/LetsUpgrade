@@ -1,0 +1,31 @@
+Day 1 ASSIGNMENT
+Question 1:explore and explain console function.
+Answer: console.log(); //displays data of html in console.
+console.time(); //start time
+console.error(); //displays error in console.
+console.warn();    //displays warning in console.
+console.timeEnd();  //end time
+console.table();   //displays table in console.
+
+
+Question 2:difference between var,let,char with examples.
+Answer: var name ="Devyani"
+ //  var allows us to make object . once created, we can assign different values to it.(boolean,string,character,etc.)
+
+{
+let name ="dev";
+console.log(name);
+}
+console.log(name);
+
+// let is like block of code. it can be called anywhere in program ,it is local scope.
+
+
+const name ="devyani fulari"
+ //constant once set cannot be changed, once defined.
+
+
+
+Question 3:Available datatypes in JavaScript.
+answers:
+1. String 2.Boolean 3.bigint 4.Number 5.Object 6.Undefined 7.Symbol 8.null
